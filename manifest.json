@@ -1,9 +1,9 @@
 {
-  "app_version": "1.8.7",
+  "app_version": "1.8.8",
   "data_version": "1.0.1",
   "app": {
-    "url": "https://github.com/Pocky-l/AlbionAvalonChecker-dist/releases/download/v1.8.7/AlbionAvalonChecker.zip",
-    "sha256": "b26ccc5a7720a06ee8a3eedb71ea520eab596990c38a264fe9b52f500a81ad35"
+    "url": "https://github.com/Pocky-l/AlbionAvalonChecker-dist/releases/download/v1.8.8/AlbionAvalonChecker.zip",
+    "sha256": "968a6bbec1d80d4d1c98b1ec3af74ab2237f6240373958a231f846c05e56155b"
   },
   "data": {
     "url": "https://github.com/Pocky-l/AlbionAvalonChecker-dist/releases/download/v1.1.0/data.zip",
